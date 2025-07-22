@@ -33,7 +33,6 @@ login-signup-project/
 - Google Fonts
 
 🌐 Live Demo
-Coming soon via GitHub Pages...
-
+<Click Here>(https://687fea130dbee1b86cd307f5--loginsingupasu.netlify.app/)
 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
